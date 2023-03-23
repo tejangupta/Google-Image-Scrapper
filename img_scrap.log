@@ -1,0 +1,17 @@
+2023-03-23 20:44:34,347 INFO Starting search and download for 'gwynne shotwell'
+2023-03-23 20:44:36,187 INFO Webdriver started with path chromedriver.exe
+2023-03-23 20:44:36,187 INFO Loading search URL for query 'gwynne shotwell'
+2023-03-23 20:44:39,941 INFO Found: 100 search results. Extracting links from 0:100
+2023-03-23 20:44:54,320 INFO Found: 10 image links, done!
+2023-03-23 20:44:56,978 INFO Fetching 10 image URLs for 'gwynne shotwell'
+2023-03-23 20:44:57,621 INFO SUCCESS - saved https://media.wired.com/photos/5ace7c5f5f2e234c3e92b7ab/191:100/w_2400,h_1256,c_limit/gwynneshotwell-482071339.jpg - as ./images\gwynne_shotwell
+2023-03-23 20:44:57,695 INFO SUCCESS - saved https://ca-times.brightspotcdn.com/dims4/default/4684c9d/2147483647/strip/false/crop/2001x1125+0+0/resize/1486x835!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F27%2F10%2Fb1c2a290b7e0c4a9f2f9eef7cea8%2Fla-1527023490-z69qp9pn1h-snap-image - as ./images\gwynne_shotwell
+2023-03-23 20:44:57,923 INFO SUCCESS - saved https://imageio.forbes.com/specials-images/imageserve/6111aa14b976739e906c59ed/0x0.jpg?format=jpg&crop=1078,1078,x2,y2,safe&height=416&width=416&fit=bounds - as ./images\gwynne_shotwell
+2023-03-23 20:44:57,991 INFO SUCCESS - saved https://image.cnbcfm.com/api/v1/image/106585244-1592599091693201311130008hq_large.jpg?v=1675887783 - as ./images\gwynne_shotwell
+2023-03-23 20:44:58,253 INFO SUCCESS - saved https://api.time.com/wp-content/uploads/2020/09/time-100-Gwynne-Shotwell.jpg - as ./images\gwynne_shotwell
+2023-03-23 20:44:58,466 INFO SUCCESS - saved https://cdn.geekwire.com/wp-content/uploads/2021/05/210511-bezos-shotwell.jpg - as ./images\gwynne_shotwell
+2023-03-23 20:44:58,799 INFO SUCCESS - saved https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Gwynne_Shotwell_at_pre-launch_briefing_for_CRS-2_mission_%28KSC-2013-1704%29.jpg/800px-Gwynne_Shotwell_at_pre-launch_briefing_for_CRS-2_mission_%28KSC-2013-1704%29.jpg - as ./images\gwynne_shotwell
+2023-03-23 20:45:00,621 INFO SUCCESS - saved https://www.thewrap.com/wp-content/uploads/2022/05/musk-shotwell-936x527.jpg - as ./images\gwynne_shotwell
+2023-03-23 20:45:00,967 INFO SUCCESS - saved https://media.wired.com/photos/60382146f322ee1eea0074c3/master/w_2560%2Cc_limit/Science_shotwell_977937372.jpg - as ./images\gwynne_shotwell
+2023-03-23 20:45:01,167 INFO SUCCESS - saved https://imageio.forbes.com/specials-images/imageserve/456854218/0x0.jpg?format=jpg&width=1200 - as ./images\gwynne_shotwell
+2023-03-23 20:45:01,167 INFO Downloaded 10 images to ./images\gwynne_shotwell
